@@ -1,4 +1,4 @@
-export const HOLES = ['Badger', 'Fox', 'Swiss Cheese', 'Donut'] as const; // 👉 FIXME ❌
+export const HOLES = ['Badger', 'Fox', 'Swiss Cheese', 'Donut', 'Rabbit'] as const; // 👉 FIXME ❌
 
 // ⚠️ It can be very useful to make a custom type based on the contents of an array
 
